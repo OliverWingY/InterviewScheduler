@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InterviewScheduler": {
+      "commandName": "Project",
+      "commandLineArgs": "\"TestSchedule.xlsx\" \"output.xlsx\""
+    }
+  }
+}
